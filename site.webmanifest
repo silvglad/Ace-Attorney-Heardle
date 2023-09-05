@@ -1,0 +1,29 @@
+{
+    "name": "Ace Attorney Heardle",
+    "short_name": "Ace Attorney Heardle",
+    "icons": [
+      {
+        "src": "https://cdn.glitch.global/d92a1ff6-d61b-4209-bc16-2a88faca0b5d/preview-192_x_192.jpg?v=1650137770175",
+        "sizes": "192x192",
+        "type": "image/jpeg"
+      },
+      {
+        "src": "https://cdn.glitch.global/d92a1ff6-d61b-4209-bc16-2a88faca0b5d/preview-500_x_500.png?v=1650137749969",
+        "sizes": "500x500",
+        "type": "image/png"
+      },
+      {
+        "src": "https://cdn.glitch.global/d92a1ff6-d61b-4209-bc16-2a88faca0b5d/preview-32_x_32.png?v=1650136628848",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "https://cdn.glitch.global/d92a1ff6-d61b-4209-bc16-2a88faca0b5d/preview-16_x_16.png?v=1650136630216",
+        "sizes": "16x16",
+        "type": "image/png"
+      }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+  }
